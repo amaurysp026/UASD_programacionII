@@ -5,7 +5,6 @@ Ejercicio ejercicios = new Ejercicio();
 do
 {
 
-  //esto es de replic
     Console.WriteLine("Hola, Como estas.");
     Console.WriteLine(ejercicios.menu);
     string ops = Console.ReadLine();
