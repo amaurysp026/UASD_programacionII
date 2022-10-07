@@ -4,6 +4,7 @@ Ejercicio ejercicios = new Ejercicio();
 
 do
 {
+    Console.WriteLine("Hola, saludp");
     Console.WriteLine(ejercicios.menu);
     string ops = Console.ReadLine();
     switch (ops)
